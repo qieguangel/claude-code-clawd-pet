@@ -1,0 +1,7 @@
+{
+  "id": "claude-crab",
+  "displayName": "Claude Code 小螃蟹",
+  "description": "基于 Claude Code 欢迎页官方 Clawd 字符图案的橙色像素桌宠。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
